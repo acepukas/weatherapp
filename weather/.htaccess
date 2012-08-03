@@ -1,0 +1,4 @@
+RewriteEngine on
+RewriteBase /weather
+
+RewriteRule ^api/([0-9]{3}) api/?id=$1

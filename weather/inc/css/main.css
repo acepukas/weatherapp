@@ -1,0 +1,28 @@
+body {
+    font: 62.5%/1.5em Arial;
+}
+
+#main {
+    width:500px;
+    margin:0 auto;
+    margin-top:30px;
+    font-size:1.5em;
+}
+
+#main h1 {
+    margin:0 0 50px 0;
+}
+
+#station_container {
+    width:100%;
+    overflow:hidden;
+}
+
+#station_container img {
+    float:right;
+}
+
+.hidden {
+    display:none;
+}
+

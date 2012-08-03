@@ -1,0 +1,17 @@
+[
+    {
+        "id":"458",
+        "name":"Toronto",
+        "temperature":"23"
+    },
+    {
+        "id":"141",
+        "name":"Vancouver",
+        "temperature":"16"
+    },
+    {
+        "id":"430",
+        "name":"Ottawa",
+        "temperature":"20"
+    }
+]
